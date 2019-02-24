@@ -1,0 +1,2 @@
+IMakers-test
+-DCATKIN_DEVEL_PREFIX=/home/zhsyi/zsygit/test1/devel -DCMAKE_INSTALL_PREFIX=/home/zhsyi/zsygit/test1/install -G Unix Makefiles
